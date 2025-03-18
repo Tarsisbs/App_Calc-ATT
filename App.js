@@ -20,7 +20,7 @@ export default function App(){
  
       <View style = {styles.viewPrincipal}>
  
-        <Text style = {styles.textoPrincipal}> Calculadora </Text>
+        <Text style = {styles.textoPrincipal}> Calculadora de Nerds</Text>
  
         <View style = {styles.viewImage}>
  
